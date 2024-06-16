@@ -4,11 +4,11 @@
   "description": "Rest api created by Zeeoneofc",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofficial/my-rest-api.git"
+    "url": "git+https://github.com/mrlit-a/MY-API-WEB.git"
   },
   "keywords": [
     "nodejs-restapi",
@@ -54,5 +54,5 @@
     "request": "^2.88.2",
     "ssl-express-www": "^3.0.7"
   },
-  "homepage": "https://github.com/zeeoneofficial/my-rest-api#readme"
+  "homepage": "https://github.com/mrlit-a/MY-API-WEB#readme"
 }
